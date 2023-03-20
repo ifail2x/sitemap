@@ -9,3 +9,4 @@
 ## Errors
 - [404](https://wavetecrr.github.io/404)
 - [utirom 403](https://wavetecrr.github.io/utirom)
+- [Admin 403](https://wavetecrr.github.io/admin/403)
